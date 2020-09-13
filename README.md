@@ -1,1 +1,1 @@
-# testzone
+# IRCzone Test Server Files & Confs.
